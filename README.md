@@ -42,5 +42,5 @@ I am a passionate IT student and an aspiring Full-stack Developer from Sri Lanka
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [Rahul Aththanayaka](www.linkedin.com/in/rahul-aththanayaka)
+- **LinkedIn:** [www.linkedin.com/in/rahul-aththanayaka]
 - **Location:** Sri Lanka 🇱🇰
