@@ -1,46 +1,59 @@
 # Hi there, I'm Rahul Aththanayaka 👋
 
-### 🎓 HNDIT Student at SLIATE (2nd Year, 2nd Semester)
-I am a passionate IT student and an aspiring Full-stack Developer from Sri Lanka 🇱🇰. I focus on building efficient, scalable web and desktop applications while continuously learning modern frameworks.
+### 🎓 HNDIT Student / Diploma Candidate at SLIATE
+I am a passionate Full-Stack Web Developer & IT Student from Sri Lanka 🇱🇰. Having successfully completed my 2nd Year examinations, I am currently **actively seeking a 6-month Internship opportunity** in Software Engineering / Web Development to complete my higher diploma and apply my skills in real-world environments.
+
+---
+
+### 🎯 Current Focus
+- 💼 **Seeking:** 6-Month Software Engineering / Full-Stack Web Development Internship.
+- 🚀 **Core Tech:** PHP, Laravel 11, MySQL, JavaScript, Java, Bootstrap.
+- 📌 **Building:** Scalable web applications and enterprise management systems.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📚 SLIATE Subject Management System
-- **Technologies:** PHP, MySQL, Bootstrap.
-- **Key Features:** User Authentication, Session Management, and full CRUD (Create, Read, Update, Delete) functionality.
-- **Goal:** Developed to streamline subject record management with a responsive UI.
+#### 🛒 Chamara Traders – POS & Inventory Management System
+- **Technologies:** PHP, Laravel 11, MySQL, Blade, Bootstrap
+- **Key Features:** Role-based access control, daily sales tracking, inventory management, wastage logs, and customer credit management tailored for vegetable trading businesses.
+- **Architecture:** MVC Pattern with secure backend routing and database transactions.
 
-#### 📚 Book Haven 22 - Bookstore Management System
-- **Technologies:** Java (Swing GUI), MySQL, OOP Principles.
-- **Architecture:** MVC (Model-View-Controller) pattern.
+#### ❓ Realtime Quiz Application
+- **Technologies:** PHP, MySQL, HTML5, CSS3, JavaScript
+- **Key Features:** User authentication, dynamic quiz rendering, score tracking, and database connectivity.
+
+#### 📚 Book Haven 22 – Bookstore Management System
+- **Technologies:** Java (Swing GUI), MySQL, OOP Principles
+- **Architecture:** MVC (Model-View-Controller) Pattern
 - **Key Features:** Role-based access control, inventory monitoring, and automated restocking alerts.
 
-#### ❓ Interactive Quiz System (Group Project)
-- **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
-- **Overview:** A collaborative platform for conducting quizzes, showcasing teamwork and database connectivity.
+#### 📚 SLIATE Subject Management System
+- **Technologies:** PHP, MySQL, Bootstrap
+- **Key Features:** User authentication, session management, and full CRUD functionality to streamline academic records.
 
-#### 🟢 Ben 10 Fan Page / Web Interface
-- **Technologies:** HTML5, CSS3, JavaScript.
-- **Focus:** Demonstrating Frontend development skills and responsive web design.
-
----
-
-### 🛠️ My Tech Stack
-
-- **Languages:** PHP, Java, HTML, CSS, JavaScript.
-- **Databases:** MySQL.
-- **Tools:** VS Code, NetBeans, XAMPP, Git & GitHub.
-- **Learning Sprint:** 🚀 **Laravel Framework & Bootstrap** (Preparing for Final ICT Project).
+#### 👽 Ben 10 Interactive Web Interface
+- **Technologies:** HTML5, CSS3, JavaScript
+- **Key Features:** Responsive UI, custom watchface previewing, instant image preloading, and dynamic sound effects.
+- **🔗 Live Demo:** [View Live Site](https://rahul-aththanayaka.github.io/ben10-fanpage/)
 
 ---
 
-### 🎥 Other Contributions
-- **Project Experience Series (YouTube):** Created a video series sharing academic project insights and collaborative experiences with fellow HNDIT students.
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** PHP, Java, JavaScript, SQL, HTML5, CSS3
+- **Frameworks & Libraries:** Laravel 11, Bootstrap, Blade Templating
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, NetBeans, XAMPP, Composer
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [www.linkedin.com/in/rahul-aththanayaka]
+### 🎥 Content & Community
+- **Project Experience Series (YouTube):** Creator of a video series sharing academic project insights, architecture breakdown, and team collaboration experiences for HNDIT students.
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [Rahul Aththanayaka](https://www.linkedin.com/in/rahul-aththanayaka)
+- **GitHub:** [rahul-aththanayaka](https://github.com/rahul-aththanayaka)
 - **Location:** Sri Lanka 🇱🇰
